@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Viera Votaw Pet Sitting</title>
+    <meta name="description" content="Gentle, reliable in-home pet sitting by Viera Votaw." />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
+
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
+# Viera Votaw Pet Sitting Website
+
+This is a simple React + Vite website.
+
+## How to use
+
+1. Upload these files to GitHub.
+2. Connect the GitHub repository to Vercel.
+3. Deploy.
+
+## Important things to change before sharing widely
+
+- Phone number
+- Email address
+- Photos
+- Service area
+- Pricing
+- Any final wording
